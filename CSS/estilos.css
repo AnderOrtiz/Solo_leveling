@@ -19,7 +19,7 @@ body
     margin:0px auto
 }
 #container #contenido{
-    text-align: justify;
+    text-align: left;
 }
 img
 {
@@ -41,6 +41,11 @@ img
     height: 100%;
 }
 
+@media screen and (min-width: 1000px) {
+    #container #contenido {
+        font-size: 20px;
+}
+}
 @media screen and (min-width: 900px) {
 #container {
     width: 50%;
