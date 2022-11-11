@@ -5,7 +5,7 @@ body
     margin: 0;
     background-image: url('https://i0.wp.com/novelasligerasft.com/wp-content/uploads/2020/09/solo-leveling-0319-1024x576-1.jpg?fit=769%2C433&ssl=1');
     background-repeat: no-repeat;
-    background-size: auto 100%;
+    background-size: cover;
     background-attachment: fixed;
 }
 #container
